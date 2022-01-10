@@ -27,4 +27,4 @@ You can use [SublimeMerge](https://www.sublimemerge.com/) as a git client, but c
 Please refer to [GitHub Setup](github-setup.md) for documentation.
 
 
-[^1]: Date format is intentionnaly YYYY-MM-DD.
+[^1]: Date format is intentionally YYYY-MM-DD.
